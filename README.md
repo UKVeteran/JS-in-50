@@ -7,7 +7,7 @@
 - 7 - Content Placeholder
 - 8 - Custom Range Slider Once Again
 - 9 - Jokes
-- 10 - Double Click Heart
+- 10 - Image Likes
 - 11 -
 - 12 -
 - 13 -
