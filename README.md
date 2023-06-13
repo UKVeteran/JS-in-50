@@ -11,7 +11,7 @@
 - 11 - Double Vertical Slider
 - 12 - Drag and Drop
 - 13 - Drawing App
-- 14 - Drinking Water
+- 14 - Staying Hydrated
 - 15 - Event Keycodes
 - 16 - Expanding Cards
 - 17 - Collapse
