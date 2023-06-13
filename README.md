@@ -2,12 +2,12 @@
 - 2 - Animated Navigation
 - 3 - AutoText Effect
 - 4 - Background Slider
-- 5 -
-- 6 -
-- 7 -
-- 8 -
-- 9 -
-- 10 -
+- 5 - Blurry Loading
+- 6 - Button Ripple Effect
+- 7 - Content Placeholder
+- 8 - Custom Range Slider
+- 9 - Jokes
+- 10 - Double Click Heart
 - 11 -
 - 12 -
 - 13 -
