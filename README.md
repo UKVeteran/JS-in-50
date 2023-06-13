@@ -23,7 +23,7 @@
 - 23 - Hoverboard
 - 24 - Image Carousel
 - 25 - Incremental Counter
-- 26 - Catching Game
+- 26 - Catch The Insect
 - 27 - Kinetic Loader
 - 28 - Live User Filter
 - 29 - Mobile Tab Navigation
