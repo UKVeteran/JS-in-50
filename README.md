@@ -8,16 +8,16 @@
 - 8 - Custom Range Slider Once Again
 - 9 - Jokes
 - 10 - Image Likes
-- 11 -
-- 12 -
-- 13 -
-- 14 -
-- 15 -
-- 16 -
-- 17 -
-- 18 -
-- 19 -
-- 20 -
+- 11 - Double Vertical Slider
+- 12 - Drag and Drop
+- 13 - Drawing App
+- 14 - Drinking Water
+- 15 - Event Keycodes
+- 16 - Expanding Cards
+- 17 - Collapse
+- 18 - Feedback UI
+- 19 - Form Input
+- 20 - GitHub Profiles
 - 21 -
 - 22 -
 - 23 -
