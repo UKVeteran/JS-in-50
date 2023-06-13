@@ -1,6 +1,6 @@
 - 1 - Animated Countdown
 - 2 - Animated Navigation
-- 3 -
+- 3 - AutoText Effect
 - 4 -
 - 5 -
 - 6 -
