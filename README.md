@@ -1,7 +1,7 @@
 - 1 - Animated Countdown
 - 2 - Animated Navigation
 - 3 - AutoText Effect
-- 4 -
+- 4 - Background Slider
 - 5 -
 - 6 -
 - 7 -
