@@ -5,7 +5,7 @@
 - 5 - Blurry Loading
 - 6 - Button Ripple Effect
 - 7 - Content Placeholder
-- 8 - Custom Range Slider
+- 8 - Custom Range Slider Once Again
 - 9 - Jokes
 - 10 - Double Click Heart
 - 11 -
