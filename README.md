@@ -1,5 +1,5 @@
-- 1 - 
-- 2 -
+- 1 - Animated Countdown
+- 2 - Animated Navigation
 - 3 -
 - 4 -
 - 5 -
