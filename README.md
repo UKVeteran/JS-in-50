@@ -18,11 +18,11 @@
 - 18 - Feedback UI
 - 19 - Form Input
 - 20 - GitHub Profiles
-- 21 -
-- 22 -
-- 23 -
-- 24 -
-- 25 -
+- 21 - Project Type
+- 22 - Hidden Search
+- 23 - Hoverboard
+- 24 - Image Carousel
+- 25 - Incremental Counter
 - 26 -
 - 27 -
 - 28 -
