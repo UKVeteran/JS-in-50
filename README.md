@@ -31,7 +31,7 @@
 - 31 - Netflix Mobile Navigation
 - 32 - Notes App
 - 33 - Password Generator
-- 34 - Password Strength Background
+- 34 - Image Password Strength
 - 35 - Pokedex
 - 36 - Progress Steps
 - 37 - Quiz App 
