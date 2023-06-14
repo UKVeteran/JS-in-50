@@ -34,7 +34,7 @@
 - 34 - Image Password Strength
 - 35 - Pokedex
 - 36 - Progress Steps
-- 37 - Quiz App 
+- 37 - Quiz Time
 - 38 - Random Choices
 - 39 - Random Image Generator
 - 40 - Rotating Navigation
