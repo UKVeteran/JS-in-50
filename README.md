@@ -28,16 +28,16 @@
 - 28 - Live User Filter
 - 29 - Mobile Tab Navigation
 - 30 - Movie App
-- 31 -
-- 32 -
-- 33 -
-- 34 -
-- 35 -
-- 36 -
-- 37 -
-- 38 -
-- 39 -
-- 40 -
+- 31 - Netflix Mobile Navigation
+- 32 - Notes App
+- 33 - Password Generator
+- 34 - Password Strength Background
+- 35 - Pokedex
+- 36 - Progress Steps
+- 37 - Quiz App 
+- 38 - Random Choices
+- 39 - Random Image Generator
+- 40 - Rotating Navigation
 - 41 -
 - 42 -
 - 43 -
