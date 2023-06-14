@@ -40,7 +40,7 @@
 - 40 - Rotating Navigation
 - 41 - 3D Boxed Background
 - 42 - Animated Scroll
-- 43 - Sound Board
+- 43 - Zoom Effect
 - 44 - Split Landing Page
 - 45 - Sticky Navigation
 - 46 - Testimonial Boxes
