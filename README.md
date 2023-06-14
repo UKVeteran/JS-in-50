@@ -39,12 +39,12 @@
 - 39 - Random Image Generator
 - 40 - Rotating Navigation
 - 41 - 3D Boxed Background
-- 42 -
-- 43 -
-- 44 -
-- 45 -
-- 46 -
-- 47 -
-- 48 -
-- 49 -
-- 50 -
+- 42 - Animated Scroll
+- 43 - Sound Board
+- 44 - Split Landing Page
+- 45 - Sticky Navigation
+- 46 - Testimonial Boxes
+- 47 - Theme Clock
+- 48 - Toast Notification
+- 49 - Things To Do
+- 50 - Account Verification UI
