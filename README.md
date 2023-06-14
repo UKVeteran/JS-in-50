@@ -41,7 +41,7 @@
 - 41 - 3D Boxed Background
 - 42 - Animated Scroll
 - 43 - Zoom Effect
-- 44 - Hamburger Menu
+- 44 - Sandwiched Menu Bar
 - 45 - Sticky Navigation
 - 46 - Testimonial Boxes
 - 47 - Theme Clock
